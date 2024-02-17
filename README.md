@@ -1,0 +1,2 @@
+# proglog
+golang project (book)
